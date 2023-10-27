@@ -1,0 +1,33 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+*{
+    /* border: 1px red dashed; */
+
+}
+.bulb{
+    height: 500px;
+    width: 350px;
+}
+
+
+.bttn{
+    margin-top: 4%;
+    /* margin-left: ; */
+    font-weight: 800;
+    height: 50px;
+    width: 100px;
+
+}
+.bttn:hover{
+    background-color: grey;
+    border: f4px white solid;
+
+}

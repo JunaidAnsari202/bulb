@@ -1,0 +1,23 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #ffffff;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: ;
+}
+
+.bulb{
+   margin-left: 40%;
+    height: 500px;
+    width: 350px;
+}
+
+
+.bttn{
+    margin-top: 4%;
+    margin-left: 48%;
+    font-weight: 800;
+}

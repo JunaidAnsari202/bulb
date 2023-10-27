@@ -1,0 +1,20 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: #ffffff;
+    overflow: hidden;
+}
+
+.bulb{
+   mar
+    height: 500px;
+    width: 350px;
+}
+
+.bttn{
+    width: 90px;
+    height: 40px;
+    background-color: red;
+    color: aliceblue;
+    font-size: large;
+}
